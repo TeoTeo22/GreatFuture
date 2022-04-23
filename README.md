@@ -1,5 +1,7 @@
 # First steps
 
+Instuctions on git [link](https://git-scm.com/docs/gittutorial)
+
 1. Clone 
   ```bash
   git clone https://TeoTeo22@github.com/TeoTeo22/GreatFuture.git
